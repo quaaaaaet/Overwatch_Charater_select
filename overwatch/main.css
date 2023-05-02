@@ -50,7 +50,7 @@ body{
     background-size: 90px;
     transform: skewX(14deg) translateX(-16px);
 }
-/*나중 scss 통해 간단히 할 수 있음*/
+/*나중 scss 통해 간단히 할 수 있음 1-32까지 만들어 보기*/
 .container .heroes .hero:nth-child(1) .image {background-image: url("https://raw.githubusercontent.com/ParkYoungWoong/overwatch-hero-selector-vanilla/master/images/hero1.png");}
 
 .container .logo{
